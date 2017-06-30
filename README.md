@@ -1,0 +1,12 @@
+pm version 1.0 演示图片
+![](https://github.com/rydgell/pm/blob/master/images/1.png)
+![](https://github.com/rydgell/pm/blob/master/images/2.png)
+![](https://github.com/rydgell/pm/blob/master/images/3.png)
+![](https://github.com/rydgell/pm/blob/master/images/4.png)
+![](https://github.com/rydgell/pm/blob/master/images/5.png)
+![](https://github.com/rydgell/pm/blob/master/images/6.png)
+![](https://github.com/rydgell/pm/blob/master/images/7.png)
+![](https://github.com/rydgell/pm/blob/master/images/8.png)
+![](https://github.com/rydgell/pm/blob/master/images/9.png)
+![](https://github.com/rydgell/pm/blob/master/images/10.png)
+![](https://github.com/rydgell/pm/blob/master/images/11.png)
